@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Exercise Tasks">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="M6800\SQLEXPRESS:M6800\hts_a">
+          <Created>2017-09-25T14:27:24.9607686+03:00</Created>
+          <Type>SQL</Type>
+          <Server>M6800\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>SoftUni</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01. Find Names of All Employees by First Name.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01. Find Names of All Employees by First Name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="02.   Find Names of All employees by Last Name .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>02.   Find Names of All employees by Last Name .sql</FullPath>
+        </FileNode>
+        <FileNode Name="03. Find First Names of All Employees.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03. Find First Names of All Employees.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04. Find All Employees Except Engineers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04. Find All Employees Except Engineers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05. Find Towns with Name Length.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05. Find Towns with Name Length.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06.  Find Towns Starting With.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06.  Find Towns Starting With.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07.  Find Towns Not Starting With.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07.  Find Towns Not Starting With.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08. Create View Employees Hired After 2000 Year.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08. Create View Employees Hired After 2000 Year.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09. Length of Last Name.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09. Length of Last Name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10. Countries Holding ‘A’ 3 or More Times.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10. Countries Holding ‘A’ 3 or More Times.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11.  Mix of Peak and River Names.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11.  Mix of Peak and River Names.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12. Games from 2011 and 2012 year.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12. Games from 2011 and 2012 year.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13.  User Email Providers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13.  User Email Providers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14.  Get Users with IPAdress Like Pattern.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14.  Get Users with IPAdress Like Pattern.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15.  Show All Games with Duration and Part of the Day.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15.  Show All Games with Duration and Part of the Day.sql</FullPath>
+        </FileNode>
+        <FileNode Name="16.  Orders Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>16.  Orders Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="17.  People Table.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>17.  People Table.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Orders-Database.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:M6800\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>M6800\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Orders-Database.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
