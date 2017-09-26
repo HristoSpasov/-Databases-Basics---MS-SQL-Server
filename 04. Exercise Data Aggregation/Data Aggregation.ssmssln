@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DataAggregation", "DataAggregation\DataAggregation.ssmssqlproj", "{A02EF51E-8AAC-4EBC-B704-D7917E15218E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{28824B2D-9D78-4DE0-BC26-F42576994727}"
+	ProjectSection(SolutionItems) = preProject
+		..\old\Gringotts-Database.sql = ..\old\Gringotts-Database.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A02EF51E-8AAC-4EBC-B704-D7917E15218E}.Default|Default.ActiveCfg = Default
+		{11CB4277-108A-473E-A201-85352B6E4E8C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
